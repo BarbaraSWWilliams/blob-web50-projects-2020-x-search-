@@ -1,0 +1,52 @@
+body{
+	font-family: sans-serif;
+	font-size: 7pt;
+	}
+
+div.links{	
+	margin-left: auto;
+	margin-right:0;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	width:20%;
+	}
+	
+div.buttongroup{	
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	width:180px;
+	}
+	
+div.buttonsing{	
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	width:90px;
+	}
+	
+	
+input[type="text"] {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 25px;
+	border-style: solid;
+	border-width: 0.1px;
+	width: 376px;
+	padding: 7px;
+	border-color: "#f1f1f1"; 
+	border-radius: 25px;	
+	}
+
+
+input[type = "submit"] {
+	border-style: none;
+	padding: 7px;
+	font-size: 7pt;
+	text-align: center;
+	color: "LightGray";
+	background-color: "#f1f1f1";	
+	}
+
